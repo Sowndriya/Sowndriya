@@ -1,16 +1,64 @@
-## Hi there 👋
+<div align="center">
+  <img height="300" src="https://assets-global.website-files.com/622642781cd7e96ac1f66807/62d0f091fc73b7a5828854b1_022021-Harness-Blogpost-DevOpsGeneric-Header-2400x700-1.png"  />
+</div>
 
-<!--
-**Sowndriya/Sowndriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**_👋Hi, I'm Sowndriya K R_**
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+💻 **DevOps Enthusiast | AWS | Docker | Jenkins | Terraform | Linux | Shell scripting | Docker | Ansible**
+<br>
+- 🌱 Interested in automation, cloud deployment, and continuous integration.
+- 📚 Completed a DevOps course and built several beginner-friendly projects to strengthen my skills.
+
+
+
+---
+
+
+### 💻💼 Tech Stack
+
+- 🐬 Docker
+- ☁️ AWS (EC2, S3, VPC, Cloudwatch, Lambda)
+- ⚙️ Jenkins, Git, Terraform
+- 💡 Linux, Shell Scripting
+
+<br>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible logo"  />
+</div>
+
+
+----
+
+### 🌐 Connect with Me
+
+- LinkedIn - www.linkedin.com/in/sowndriya-k-r-228a84390
+- GitHub - https://github.com/Sowndriya
+- Email - sowndriyalaxminarayanan@gmail.com
+
+
+---
+
+💫 *"Continous learning leads to continous improvement."*
