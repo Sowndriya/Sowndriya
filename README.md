@@ -22,7 +22,7 @@
 
 - 🐬 Docker
 - ☁️ AWS (EC2, S3, VPC, Cloudwatch, Lambda)
-- ⚙️ Jenkins, Git, Terraform
+- ⚙️ Jenkins, Git, Terraform, Kubernetes
 - 💡 Linux, Shell Scripting
 
 <br>
