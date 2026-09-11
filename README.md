@@ -8,47 +8,66 @@
 <br>
 
 
-💻 **DevOps Enthusiast | AWS | Docker | Jenkins | Terraform | Linux | Shell scripting | Docker | Ansible**
+💻 **🔍 Aspiring QA Tester | Manual Testing | Jira | SQL | Basic Automation**
 <br>
-- 🌱 Interested in automation, cloud deployment, and continuous integration.
-- 📚 Completed a DevOps course and built several beginner-friendly projects to strengthen my skills.
+- 🌱 I'm passionate about **Software Testing and Quality Assurance**, with a focus on manual testing and software quality.
 
+- 📚I'm building my skills in **Manual Testing, Test Case Design, Jira, SQL, API Testing, and Basic Test Automation**.
 
 
 ---
 
+## 🧪 QA Skills
 
-### 💻💼 Tech Stack
+- Manual Testing
+- Test Case Design & Execution
+- Test Scenarios
+- Functional Testing
+- Regression Testing
+- Smoke Testing
+- Sanity Testing
+- Exploratory Testing
+- Retesting
+- Defect Identification & Reporting
+- Bug Life Cycle
+- SDLC & STLC
+- Agile / Scrum
+- Jira
+- SQL
+- Basic Automation Concepts
 
-- 🐬 Docker
-- ☁️ AWS (EC2, S3, VPC, Cloudwatch, Lambda)
-- ⚙️ Jenkins, Git, Terraform, Kubernetes
-- 💡 Linux, Shell Scripting
+---
+## 🛠️ Tools & Technologies
+
+### Testing
+- Jira
+- Test Case Management
+- Defect Tracking
+
+### Database
+- SQL
+
+### DevOps & Technical Skills
+- AWS
+- Linux
+- Git & GitHub
+- Docker
+- Terraform
+- Ansible
+- Bash / Shell Scripting
+- Jenkins
+- Prometheus
+- Grafana
+
+## 📌 QA Project
+
+### 🛒 OpenCart Manual Testing Project
+
+- Created test scenarios and test cases for the OpenCart application.
+- Performed functional, smoke, regression, and exploratory testing.
+- Tested UI elements, navigation, search, currency, account functions, and product features.
 
 <br>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible logo"  />
-</div>
-
 
 ----
 
