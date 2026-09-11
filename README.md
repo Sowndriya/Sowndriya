@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://assets-global.website-files.com/622642781cd7e96ac1f66807/62d0f091fc73b7a5828854b1_022021-Harness-Blogpost-DevOpsGeneric-Header-2400x700-1.png"  />
+  <img height="300" src="laptop-coffee-cup-notepad-glasses-black-background-top-view.jpg"  />
 </div>
 
 ---
