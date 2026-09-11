@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="laptop-coffee-cup-notepad-glasses-black-background-top-view.jpg"  />
+  <img height="300" src="images/laptop-coffee-cup-notepad-glasses-black-background-top-view.jpg" width="100%"/>
 </div>
 
 ---
